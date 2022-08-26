@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-<br>
 
 ##### Some of the technologies I have worked with
 
