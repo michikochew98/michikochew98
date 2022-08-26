@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🎓 Recent computer science graduate from USM - Universiti Sains Malaysia
+- 🌱 Love to explore backend technologies 
+- 💪🏼 Exercise mentally and physically
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michikochew98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chew-mi-chi-ko-2795381b4/)
 [![michiko.com](https://img.shields.io/badge/-website-orange?style=for-the-badge)](https://michikochew98.github.io/Canvas-Game-Portfolio/)
