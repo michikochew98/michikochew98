@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🎓 Recent computer science graduate from USM - Universiti Sains Malaysia
 - 🌱 Love to explore backend technologies 
 - 💪🏼 Exercise mentally and physically
+- :coffee: Working on Java, SpringBoot and Spring Cloud
 
 <br>
 
