@@ -28,14 +28,11 @@ Java, JavaScript, C++
 
 
 ##### Some of the framework I have worked with
-Redux
-Spring Boot, Spring Cloud
-MERN 
+Redux, Spring Boot, Spring Cloud, MERN 
 
 
 ##### Some of the database I have worked with
-MySQL, Oracle
-MongoDB, Firebase
+MySQL, Oracle, MongoDB, Firebase
 
 <br>
 
