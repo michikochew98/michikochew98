@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michikochew98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chew-mi-chi-ko-2795381b4/)
-[![michiko.com](https://img.shields.io/badge/-website-orange?style=for-the-badge)](https://michiko.netlify.app/)
-
 <br>
 
 - 🎓 Recent computer science graduate from USM - Universiti Sains Malaysia
@@ -48,3 +44,9 @@ Here are some ideas to get you started:
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michikochew98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chew-mi-chi-ko-2795381b4/)
+[![michiko.com](https://img.shields.io/badge/-website-orange?style=for-the-badge)](https://michikochew.netlify.app/)
